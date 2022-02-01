@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "bb029db0-1c42-4038-905d-f2ff7597d216": {
+      "ProjectGuid": "bb029db0-1c42-4038-905d-f2ff7597d216",
+      "DisplayName": "Sistema de Ventas",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

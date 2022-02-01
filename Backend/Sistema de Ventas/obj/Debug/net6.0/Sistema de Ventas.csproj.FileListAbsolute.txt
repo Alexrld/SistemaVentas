@@ -1,0 +1,60 @@
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\appsettings.Development.json
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\appsettings.json
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Sistema de Ventas.exe
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Sistema de Ventas.deps.json
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Sistema de Ventas.runtimeconfig.json
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Sistema de Ventas.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\ref\Sistema de Ventas.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Sistema de Ventas.pdb
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.csproj.AssemblyReference.cache
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.AssemblyInfoInputs.cache
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.AssemblyInfo.cs
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.csproj.CoreCompileInputs.cache
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.MvcApplicationPartsAssemblyInfo.cs
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.MvcApplicationPartsAssemblyInfo.cache
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\staticwebassets.build.json
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\staticwebassets.development.json
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\scopedcss\bundle\Sistema de Ventas.styles.css
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.csproj.CopyComplete
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\ref\Sistema de Ventas.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.pdb
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\obj\Debug\net6.0\Sistema de Ventas.genruntimeconfig.cache
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Humanizer.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\workspace\.NET\HdLeonCourses\Sistema de Ventas\Sistema de Ventas\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
